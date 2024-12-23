@@ -97,4 +97,6 @@ endmodule
 ![RTL](https://github.com/user-attachments/assets/fff2a2d1-1b16-4d2e-ad4b-f8f3c141b9a4)
 
 **RESULTS**
-Thus,the SR flipflop using verilog and validating their functionality using their functional tables is implemented successfully.
+
+Thus,the SR flipflop using verilog and validating their functionality using their functional 
+tables is implemented successfully.
